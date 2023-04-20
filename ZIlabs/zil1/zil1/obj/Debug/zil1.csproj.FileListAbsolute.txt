@@ -1,0 +1,32 @@
+C:\Users\kaill\source\repos\zil1\zil1\bin\Debug\zil1.exe.config
+C:\Users\kaill\source\repos\zil1\zil1\bin\Debug\zil1.exe
+C:\Users\kaill\source\repos\zil1\zil1\bin\Debug\zil1.pdb
+C:\Users\kaill\source\repos\zil1\zil1\obj\Debug\zil1.csproj.AssemblyReference.cache
+C:\Users\kaill\source\repos\zil1\zil1\obj\Debug\zil1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaill\source\repos\zil1\zil1\obj\Debug\MainWindow.g.cs
+C:\Users\kaill\source\repos\zil1\zil1\obj\Debug\App.g.cs
+C:\Users\kaill\source\repos\zil1\zil1\obj\Debug\zil1_MarkupCompile.cache
+C:\Users\kaill\source\repos\zil1\zil1\obj\Debug\zil1_MarkupCompile.lref
+C:\Users\kaill\source\repos\zil1\zil1\obj\Debug\MainWindow.baml
+C:\Users\kaill\source\repos\zil1\zil1\obj\Debug\zil1.g.resources
+C:\Users\kaill\source\repos\zil1\zil1\obj\Debug\zil1.Properties.Resources.resources
+C:\Users\kaill\source\repos\zil1\zil1\obj\Debug\zil1.csproj.GenerateResource.cache
+C:\Users\kaill\source\repos\zil1\zil1\obj\Debug\zil1.csproj.CoreCompileInputs.cache
+C:\Users\kaill\source\repos\zil1\zil1\obj\Debug\zil1.exe
+C:\Users\kaill\source\repos\zil1\zil1\obj\Debug\zil1.pdb
+C:\Users\kaill\Рабочий стол\zil1\zil1\bin\Debug\zil1.exe.config
+C:\Users\kaill\Рабочий стол\zil1\zil1\bin\Debug\zil1.exe
+C:\Users\kaill\Рабочий стол\zil1\zil1\bin\Debug\zil1.pdb
+C:\Users\kaill\Рабочий стол\zil1\zil1\obj\Debug\zil1.csproj.AssemblyReference.cache
+C:\Users\kaill\Рабочий стол\zil1\zil1\obj\Debug\zil1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaill\Рабочий стол\zil1\zil1\obj\Debug\MainWindow.g.cs
+C:\Users\kaill\Рабочий стол\zil1\zil1\obj\Debug\App.g.cs
+C:\Users\kaill\Рабочий стол\zil1\zil1\obj\Debug\zil1_MarkupCompile.cache
+C:\Users\kaill\Рабочий стол\zil1\zil1\obj\Debug\zil1_MarkupCompile.lref
+C:\Users\kaill\Рабочий стол\zil1\zil1\obj\Debug\MainWindow.baml
+C:\Users\kaill\Рабочий стол\zil1\zil1\obj\Debug\zil1.g.resources
+C:\Users\kaill\Рабочий стол\zil1\zil1\obj\Debug\zil1.Properties.Resources.resources
+C:\Users\kaill\Рабочий стол\zil1\zil1\obj\Debug\zil1.csproj.GenerateResource.cache
+C:\Users\kaill\Рабочий стол\zil1\zil1\obj\Debug\zil1.csproj.CoreCompileInputs.cache
+C:\Users\kaill\Рабочий стол\zil1\zil1\obj\Debug\zil1.exe
+C:\Users\kaill\Рабочий стол\zil1\zil1\obj\Debug\zil1.pdb

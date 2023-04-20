@@ -1,0 +1,37 @@
+﻿<Window x:Class="zil1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:zil1"
+        mc:Ignorable="d"
+        Title="Система омофонов" Height="640" Width="480" WindowStyle="ThreeDBorderWindow">
+    <Grid x:Name="MainWin">
+        <TextBox x:Name="input" Margin="0,44,0,0" TextWrapping="Wrap" Width="440" Height="40" VerticalAlignment="Top" FontSize="18"/>
+        <TextBox x:Name="output" Margin="0,184,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="440" Height="180" FontSize="18"/>
+        <Button x:Name="encrypt" Content="ЗАШИФРОВАТЬ" Margin="0,104,0,0" VerticalAlignment="Top" Height="40" Width="440" Click="Button_Click" FontSize="20" FontWeight="Bold">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <Label Content="Введите фразу" Margin="20,4,20,0" VerticalAlignment="Top" Height="40" Width="440" FontFamily="Arial" FontSize="20" RenderTransformOrigin="0.5,0.5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Зашифрованный вид" VerticalAlignment="Top" Height="40" Width="440" FontFamily="Arial" Margin="20,144,20,0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="20"/>
+        <Button x:Name="decrypt" Content="ДЕШИФРОВАТЬ" Margin="20,404,20,0" VerticalAlignment="Top" Height="40" Width="440" Click="Button_Click" FontSize="20" FontWeight="Bold">
+            <Button.Effect>
+                <DropShadowEffect/>
+            </Button.Effect>
+        </Button>
+        <TextBox x:Name="decrypttext" Margin="20,484,20,0" TextWrapping="Wrap" Width="440" Height="80" VerticalAlignment="Top" FontSize="18"/>
+
+    </Grid>
+</Window>
+ 
