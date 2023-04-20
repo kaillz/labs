@@ -6,4 +6,3 @@ vector_column = np.array([[1],
                           [3]])
 
 print(vector_row, '\n',  vector_column)
-
