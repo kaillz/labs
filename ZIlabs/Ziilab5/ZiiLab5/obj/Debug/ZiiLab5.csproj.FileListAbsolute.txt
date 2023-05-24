@@ -1,0 +1,16 @@
+C:\Users\kaill\source\repos\ZiiLab5\ZiiLab5\obj\Debug\ZiiLab5.csproj.AssemblyReference.cache
+C:\Users\kaill\source\repos\ZiiLab5\ZiiLab5\obj\Debug\ZiiLab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaill\source\repos\ZiiLab5\ZiiLab5\obj\Debug\MainWindow.g.cs
+C:\Users\kaill\source\repos\ZiiLab5\ZiiLab5\obj\Debug\App.g.cs
+C:\Users\kaill\source\repos\ZiiLab5\ZiiLab5\obj\Debug\ZiiLab5_MarkupCompile.cache
+C:\Users\kaill\source\repos\ZiiLab5\ZiiLab5\obj\Debug\ZiiLab5_MarkupCompile.lref
+C:\Users\kaill\source\repos\ZiiLab5\ZiiLab5\bin\Debug\ZiiLab5.exe.config
+C:\Users\kaill\source\repos\ZiiLab5\ZiiLab5\bin\Debug\ZiiLab5.exe
+C:\Users\kaill\source\repos\ZiiLab5\ZiiLab5\bin\Debug\ZiiLab5.pdb
+C:\Users\kaill\source\repos\ZiiLab5\ZiiLab5\obj\Debug\MainWindow.baml
+C:\Users\kaill\source\repos\ZiiLab5\ZiiLab5\obj\Debug\ZiiLab5.g.resources
+C:\Users\kaill\source\repos\ZiiLab5\ZiiLab5\obj\Debug\ZiiLab5.Properties.Resources.resources
+C:\Users\kaill\source\repos\ZiiLab5\ZiiLab5\obj\Debug\ZiiLab5.csproj.GenerateResource.cache
+C:\Users\kaill\source\repos\ZiiLab5\ZiiLab5\obj\Debug\ZiiLab5.csproj.CoreCompileInputs.cache
+C:\Users\kaill\source\repos\ZiiLab5\ZiiLab5\obj\Debug\ZiiLab5.exe
+C:\Users\kaill\source\repos\ZiiLab5\ZiiLab5\obj\Debug\ZiiLab5.pdb
